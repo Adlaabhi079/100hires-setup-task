@@ -63,3 +63,44 @@ Since the requested extensions were not available in my current Cursor version, 
 ## Author
 
 ABHINAY ADLA
+
+## Research Project - AI-Powered SEO Content Production
+
+### Objective
+
+Research leading SEO practitioners and analyze their approaches to AI-assisted content creation, SEO workflows, keyword research, topical authority, and content scaling.
+
+### Research Structure
+
+* research/sources.md
+* research/linkedin-posts/
+* research/youtube-transcripts/
+* research/other/
+
+### Experts Selected
+
+1. Neil Patel
+2. Brian Dean
+3. Tim Soulo
+4. Matt Diggity
+5. Nathan Gotch
+6. Julian Goldie
+7. Aleyda Solis
+8. Lily Ray
+9. Ross Simmonds
+10. Mark Williams-Cook
+
+### Why These Experts
+
+These experts were selected because they actively publish high-quality SEO and content marketing insights based on real-world experience. Together they cover SEO strategy, technical SEO, content production, AI-assisted workflows, keyword research, content distribution, and organic growth.
+
+### Key Findings
+
+* AI improves content production efficiency.
+* Search intent remains critical.
+* Topical authority is essential for sustainable rankings.
+* Human review significantly improves AI-generated content.
+* Effective SEO combines content creation and distribution.
+
+#author
+ABHINAY ADLA
