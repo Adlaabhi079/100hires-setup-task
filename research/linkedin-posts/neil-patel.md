@@ -1,7 +1,11 @@
 # Neil Patel Research
 
 Platform:
-LinkedIn, YouTube, Blog
+LinkedIn
+
+linkedin post url: https://www.linkedin.com/posts/neilkpatel_how-do-ai-visitors-compare-to-traditional-share-7472770033845317632-tYcL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxo248BkvEoVurFynjmk0nhpr_iALGrFRQ
+
+Date : 17 jun 2026
 
 Focus:
 SEO, Content Marketing, AI-Powered Content Production
