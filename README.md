@@ -104,3 +104,11 @@ These experts were selected because they actively publish high-quality SEO and c
 
 #author
 ABHINAY ADLA
+
+## Playbook / SOP
+
+The research from the 10 selected SEO practitioners was synthesized into an AI-Powered SEO Content Production Playbook.
+
+The playbook compares different expert approaches, explains where they disagree, documents ideas that were rejected, proposes an original evidence-gated workflow, and identifies limitations and risks.
+
+[Read the AI-Powered SEO Content Production Playbook](research/playbook.md)
