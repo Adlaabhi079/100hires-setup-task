@@ -434,3 +434,38 @@ I would treat this playbook as a starting operating framework rather than a guar
 Its strongest value is providing a repeatable process for combining AI-assisted production with research, human judgment, evidence checking, optimization, and measurement.
 
 The next step should be testing the workflow on a small content sample, measuring the results, and modifying the SOP based on evidence.
+
+## 10. Who I Would NOT Recommend Following and Why
+
+### Julian Goldie — Not as a Standalone Playbook
+
+Of the 10 experts researched, I would be the most cautious about recommending Julian Goldie's approach as a standalone SEO content-production system.
+
+This is not because I consider his approach ineffective. His content is useful for understanding how AI agents and automation can be applied to SEO workflows, and his work helped me identify opportunities for automating repetitive parts of the process.
+
+My concern is the level of automation implied by some of the workflows.
+
+For example, his research demonstrates an AI SEO agent that can connect with Google Search Console, identify opportunities, and deploy content. This is an interesting direction for experimentation, but I would not recommend that a team adopt a fully autonomous publishing workflow without first validating content quality, factual accuracy, search intent, and business outcomes.
+
+**Source:**
+Julian Goldie, YouTube, "How I Built an AI SEO Agent to Rank #1 in 10 Minutes (Claude Code)" — https://youtu.be/69PT1AUxlOw?si=KIrXeHEBUpnW9mSz
+
+### Why I Take This Position
+
+My playbook prioritizes evidence, human review, and controlled experimentation.
+
+A highly automated system can increase production speed, but if the quality-control process is weak, it can also scale mistakes quickly.
+
+Therefore, I would use Julian Goldie's approach as a source of ideas for automation rather than as a complete operating model.
+
+I would first test automation on a limited number of pages, measure the results, and introduce human approval before allowing the system to publish at scale.
+
+### Important Qualification
+
+I would not interpret this as a judgment that Julian Goldie's overall SEO strategy is ineffective.
+
+My conclusion is narrower:
+
+**I would not recommend following a highly automated AI SEO workflow blindly without independent validation and human quality control.**
+
+This distinction matters because expert strategies are often developed in specific contexts and should be tested before being generalized to another website, audience, or business.
