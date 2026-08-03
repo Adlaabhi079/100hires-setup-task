@@ -262,3 +262,38 @@ I would treat AI search optimization as an evolution of SEO rather than a comple
 The search environment is changing, so marketers need new measurements and workflows. However, the fundamentals of understanding users, creating useful content, building authority, and making information accessible remain relevant.
 
 Therefore, I would adapt the existing SEO process for AI search rather than create a completely separate process from scratch.
+
+## 7. What I Rejected and Why
+
+### Rejected Idea 1: Fully Automated Publishing Without Human Review
+
+Some of the research around AI-powered SEO workflows suggests that increasingly autonomous systems can identify opportunities, generate content, and deploy it with limited human intervention.
+
+I decided not to recommend fully automated publishing as part of this playbook.
+
+**Why I rejected it:**
+
+The main risk is that speed can come at the expense of factual accuracy, originality, and quality control. AI systems can produce confident but incorrect information, and an automated publishing system could scale those errors before they are detected.
+
+My recommendation is to automate repetitive production tasks but keep a human approval step before publication.
+
+**Source considered:**
+Julian Goldie, "How I Built an AI SEO Agent to Rank #1 in 10 Minutes (Claude Code)" — https://youtu.be/69PT1AUxlOw?si=KIrXeHEBUpnW9mSz
+
+
+### Rejected Idea 2: Treating AI Search Optimization as a Completely Separate Discipline
+
+The research contains significant discussion around new concepts such as GEO, AEO, and LLMO.
+
+I decided not to create a completely separate "AI SEO" process that ignores traditional SEO principles.
+
+**Why I rejected it:**
+
+AI search is changing how information is discovered and presented, but many fundamentals remain relevant: understanding search intent, creating useful content, maintaining authority, and making information accessible to search engines.
+
+Creating a completely separate workflow could cause teams to duplicate work and focus too heavily on terminology instead of the underlying user and search problems.
+
+My recommendation is to adapt existing SEO practices for AI search while adding new measurement and optimization methods where they provide clear value.
+
+**Source considered:**
+Lily Ray, "GEO, AEO, LLMO: Separating Fact from Fiction & How to Win in AI Search" — https://youtu.be/2nJkT8zOzcM?si=Y-3C8lsJ_wqcmJIn
