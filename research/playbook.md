@@ -297,3 +297,140 @@ My recommendation is to adapt existing SEO practices for AI search while adding 
 
 **Source considered:**
 Lily Ray, "GEO, AEO, LLMO: Separating Fact from Fiction & How to Win in AI Search" — https://youtu.be/2nJkT8zOzcM?si=Y-3C8lsJ_wqcmJIn
+
+## 8. My Original Ideas
+
+### The Evidence-Gated AI Content Pipeline
+
+My original idea is to introduce an "evidence gate" between AI content generation and human editing.
+
+Instead of treating the workflow as:
+
+Research → AI draft → Human edit → Publish
+
+I would use:
+
+Research → AI draft → Evidence Gate → Human edit → Publish → Measure
+
+The Evidence Gate would automatically identify factual claims in the draft and classify them into three categories:
+
+1. **Verified claims** — supported by a reliable source.
+2. **Claims requiring verification** — statements that may be correct but need a source or additional checking.
+3. **Unsupported claims** — statements that should be removed or rewritten unless evidence can be found.
+
+### Why I Think It Could Work
+
+AI can significantly increase the speed of content production, but faster production also increases the risk of scaling inaccurate or unsupported claims.
+
+The evidence gate makes factual verification an explicit stage in the workflow rather than leaving fact-checking until the end.
+
+This could be particularly useful for teams producing content at scale because it creates a repeatable quality-control process before an article reaches the final human editor.
+
+### How I Would Implement It
+
+1. Generate the initial content brief.
+2. Produce an AI-assisted draft.
+3. Extract factual claims from the draft.
+4. Ask the AI system to identify a supporting source for each important claim.
+5. Flag claims without adequate evidence.
+6. Have a human reviewer verify the flagged claims.
+7. Remove, rewrite, or properly source unsupported claims.
+8. Continue to human editing and final SEO review.
+9. Publish only after the evidence gate is passed.
+
+### Why This Is Different From the Sources
+
+The experts I researched discuss AI-assisted content production, automation, search optimization, and the importance of quality. However, I did not find this exact "evidence gate" workflow presented as a standard step across the sources I reviewed.
+
+My idea combines the efficiency of AI-assisted production with a formal evidence-checking checkpoint.
+
+### Limitation
+
+This is a proposed workflow rather than a validated system. I have not tested whether it improves rankings, publishing speed, or factual accuracy compared with a conventional human review process.
+
+The next step would be to test the workflow on a small set of articles and compare:
+
+- Time required per article
+- Number of factual errors detected
+- Number of unsupported claims
+- Human editing time
+- Content quality
+
+## 9. Weaknesses of This Playbook
+
+This playbook is a practical framework based on research from 10 SEO and content practitioners, but it has several limitations.
+
+### 1. The workflow has not been tested at scale
+
+The recommended workflow is based on expert research and my own reasoning. I have not yet tested it across hundreds of articles or compared it against an established content production system.
+
+As a result, claims about efficiency improvements or better SEO performance should be treated as hypotheses rather than proven results.
+
+### 2. Expert content is not the same as controlled evidence
+
+The sources studied include LinkedIn posts and YouTube videos. These are valuable for understanding practitioner opinions and strategies, but they are not controlled experiments.
+
+An expert's recommendation may work well in their particular business, audience, website, or market but may not produce the same results elsewhere.
+
+### 3. SEO results depend on factors outside the content workflow
+
+This playbook focuses mainly on content production. It does not fully address:
+
+- Website authority
+- Backlink profiles
+- Technical SEO problems
+- Brand recognition
+- Competition
+- Domain history
+- Industry-specific requirements
+- Changes to search engine algorithms
+
+Therefore, following this workflow does not guarantee higher rankings or organic traffic.
+
+### 4. AI tools change quickly
+
+AI models, search interfaces, APIs, and content-generation tools are evolving rapidly.
+
+A workflow that works well today may require modification as search engines, AI systems, and content-generation tools change.
+
+The playbook should therefore be reviewed periodically rather than treated as a permanent SOP.
+
+### 5. Human review can become a bottleneck
+
+The playbook deliberately keeps a human approval stage before publishing. This improves quality control but can reduce the speed advantage gained through automation.
+
+For a large content operation, the team would need a clear review process and prioritization system to prevent the human review stage from becoming the main bottleneck.
+
+### 6. The evidence-gate idea is currently untested
+
+The proposed Evidence-Gated AI Content Pipeline is my original idea, but I have not yet run a controlled test to determine whether it reduces factual errors or improves content quality.
+
+It should therefore be treated as an experiment rather than a proven best practice.
+
+### 7. The research sample is limited
+
+The playbook is based on 10 selected experts. Although they provide a useful range of perspectives, they do not represent the entire SEO industry.
+
+Other practitioners, SEO experiments, academic research, and first-party performance data could lead to different conclusions.
+
+### 8. Ranking is not the only measure of content success
+
+A page can receive organic traffic without producing meaningful business results.
+
+This playbook does not provide a complete framework for measuring:
+
+- Leads
+- Revenue
+- Customer acquisition cost
+- Assisted conversions
+- Customer lifetime value
+
+These business outcomes should be added when the workflow is implemented in a real organization.
+
+### Overall Assessment
+
+I would treat this playbook as a starting operating framework rather than a guaranteed formula for SEO success.
+
+Its strongest value is providing a repeatable process for combining AI-assisted production with research, human judgment, evidence checking, optimization, and measurement.
+
+The next step should be testing the workflow on a small content sample, measuring the results, and modifying the SOP based on evidence.
