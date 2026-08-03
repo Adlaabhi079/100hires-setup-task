@@ -27,7 +27,7 @@ This playbook is based on research from:
     
 ## 4. Recommended AI-Powered SEO Content Production Workflow
 
-### Step 1: Define the Searcher's Problem
+### Step 1: Define the Searcher's Problem and Search Intent
 
 Start by identifying what the audience is actually trying to accomplish with the search query.
 
@@ -35,18 +35,34 @@ Before creating content, determine:
 
 - The primary search intent
 - The audience's problem or question
-- The expected type of content
+- The type of answer the searcher is likely expecting
 - What a useful answer should contain
 
 I would not begin by asking AI to write an article immediately. The content strategy should come before content generation.
 
-### Step 2: Research the Topic and Keywords
+**Sources:**
+- Neil Patel — LinkedIn post, 17.06.2026  - https://www.linkedin.com/posts/neilkpatel_how-do-ai-visitors-compare-to-traditional-share-7472770033845317632-tYcL/?utm_source=chatgpt.com
+- Neil Patel — YouTube, "5 Signs Your AI SEO Strategy Is About to Take Off", 27.05.2026 - https://youtu.be/SxTuBggWU2w?utm_source=chatgpt.com
+- Nathan Gotch — LinkedIn post, 16.06.2026 - https://www.linkedin.com/posts/nathangotch_seo-is-so-easy-now-you-just-need-to-share-7472611026111434752-qWzJ/?utm_source=chatgpt.com
 
-Research the target topic, related queries, competing content, and important subtopics.
 
-The goal is not simply to find keywords with high search volume. The research should identify the questions, subtopics, and information users expect to find.
+### Step 2: Research the Topic, Keywords, and Related Intents
 
-AI can assist with organizing research and identifying potential subtopics, but important facts and search data should be independently verified.
+Research the target topic, primary keyword, related queries, competing content, and important subtopics.
+
+Keywords remain useful for discovering search demand, but the research should also identify the broader questions, intents, and themes users associate with the topic.
+
+I would therefore use:
+
+Keyword research → intent classification → topic/subtopic mapping.
+
+**Sources:**
+- Brian Dean — LinkedIn post, 2026 - https://www.linkedin.com/posts/brianedean_most-people-are-missing-how-ai-is-actually-activity-7446839485004161024-ot6g?utm_source=chatgpt.com
+- Neil Patel — YouTube, "5 Signs Your AI SEO Strategy Is About to Take Off", 27.05.2026 - https://youtu.be/SxTuBggWU2w?utm_source=chatgpt.com
+- Aleyda Solis — LinkedIn post, 17.06.2026 - https://www.linkedin.com/posts/aleyda_bing-is-releasing-new-ai-visibility-insights-share-7472684889935548417-tSt6?utm_source=chatgpt.com
+- Nathan Gotch — LinkedIn post, 16.06.2026 - https://www.linkedin.com/posts/nathangotch_seo-is-so-easy-now-you-just-need-to-share-7472611026111434752-qWzJ/?utm_source=chatgpt.com
+- Lily Ray — LinkedIn post, 2026 - https://www.linkedin.com/posts/lily-ray-44755615_heres-a-little-hack-ive-been-using-to-quickly-share-7470166065856032768-Are4/?utm_source=chatgpt.com
+
 
 ### Step 3: Build a Content Brief
 
@@ -60,11 +76,17 @@ The brief should contain:
 - Target audience
 - Important subtopics
 - Questions to answer
-- Suggested content structure
+- Proposed content structure
 - Internal linking opportunities
-- Information that requires expert or primary sources
+- Information that requires expert or primary-source verification
 
-This creates a clear direction for the AI instead of asking it to generate content from a vague prompt.
+A structured brief gives the AI a defined research and content framework instead of asking it to generate an article from a vague prompt.
+
+**Sources:**
+- Nathan Gotch — YouTube, "The AI SEO Checklist I'd Use in 2026", 14.07.2025 - https://youtu.be/0FmEV0jE5TQ?utm_source=chatgpt.com
+- Nathan Gotch — LinkedIn post, 16.06.2026 - https://www.linkedin.com/posts/nathangotch_seo-is-so-easy-now-you-just-need-to-share-7472611026111434752-qWzJ/?utm_source=chatgpt.com
+- Matt Diggity — YouTube, "I Let an AI Run my SEO Campaign. Here's what happened...", 29.10.2025 - https://youtu.be/xG9Vu9yrQzw?utm_source=chatgpt.com
+
 
 ### Step 4: Use AI for Drafting and Production Support
 
@@ -79,29 +101,65 @@ AI can assist with:
 - Creating title and heading variations
 - Identifying missing questions
 - Creating content briefs
+- Supporting content optimization
 
-AI output should be treated as a draft rather than automatically publishable content.
+However, AI output should be treated as a production aid rather than automatically publishable content.
 
-### Step 5: Add Human Review and Original Value
+**Sources:**
+- Neil Patel — YouTube, "5 Signs Your AI SEO Strategy Is About to Take Off", 27.05.2026 - https://youtu.be/SxTuBggWU2w?utm_source=chatgpt.com
+- Julian Goldie — YouTube, "How I Built an AI SEO Agent to Rank #1 in 10 Minutes (Claude Code)", 16.06.2026 - https://youtu.be/69PT1AUxlOw?utm_source=chatgpt.com
+- Matt Diggity — YouTube, "I Let an AI Run my SEO Campaign. Here's what happened...", 29.10.2025- https://youtu.be/xG9Vu9yrQzw?utm_source=chatgpt.com
+- Nathan Gotch — LinkedIn post, 16.06.2026 - https://www.linkedin.com/posts/nathangotch_seo-is-so-easy-now-you-just-need-to-share-7472611026111434752-qWzJ/?utm_source=chatgpt.com
 
-Review the AI-generated material for:
+
+### Step 5: Run an Evidence and Human-Review Gate
+
+Before publication, review AI-assisted content for:
 
 - Accuracy
 - Search intent
-- Factual claims
+- Unsupported claims
 - Repetition
 - Generic language
-- Unsupported statements
+- Factual errors
 - Originality
 - Usefulness to the reader
 
-Add original examples, practical experience, analysis, or expert input wherever possible.
+Important claims should be checked against reliable sources.
 
-This is an important control point in the workflow because faster content production does not automatically mean better content.
+I recommend keeping human approval before publication because the research contains both highly automated approaches and more cautious discussions about AI reliability and hallucinations.
 
-### Step 6: Optimize the Content
+**Sources:**
+- Neil Patel — YouTube, "5 Signs Your AI SEO Strategy Is About to Take Off", 27.05.2026 - https://youtu.be/SxTuBggWU2w?utm_source=chatgpt.com
+- Mark Williams-Cook — YouTube, "SEO Mark Williams-Cook on AI vs Google Search....Behind the Scenes", 11.10.2025 - https://youtu.be/8humkUT8w9k?utm_source=chatgpt.com
+- Lily Ray — YouTube, "GEO, AEO, LLMO: Separating Fact from Fiction & How to Win in AI Search", 11.11.2025 - https://youtu.be/2nJkT8zOzcM?utm_source=chatgpt.com
 
-After the content is reviewed, optimize it for both users and search engines.
+
+### Step 6: Add Original Value
+
+AI-assisted content should be improved with information that makes the page genuinely useful rather than simply reproducing generic information.
+
+Add where appropriate:
+
+- Original examples
+- Practical experience
+- Expert perspectives
+- First-hand observations
+- Useful comparisons
+- Specific recommendations
+- Evidence that supports important claims
+
+The goal is not simply to produce more text, but to create content that provides useful information beyond a generic AI-generated answer.
+
+**Sources:**
+- Neil Patel — YouTube, "5 Signs Your AI SEO Strategy Is About to Take Off", 27.05.2026 - https://youtu.be/SxTuBggWU2w?utm_source=chatgpt.com
+- Ross Simmonds — YouTube, "Ross Simmonds | Keynote Speaker Demo Reel | Content, SEO & AI That Drive Pipeline", 15.04.2026 - https://youtu.be/axTH6nKDUY4?utm_source=chatgpt.com
+- Lily Ray — YouTube, "GEO, AEO, LLMO: Separating Fact from Fiction & How to Win in AI Search", 11.11.2025 - https://youtu.be/2nJkT8zOzcM?utm_source=chatgpt.com
+
+
+### Step 7: Optimize for Search and AI Visibility
+
+After the content is reviewed, optimize it for both users and search systems.
 
 Check:
 
@@ -111,47 +169,66 @@ Check:
 - Internal links
 - Relevant terminology
 - Readability
-- Meta description where appropriate
-- Images and supporting media where useful
+- Structured information where appropriate
+- Information that may help search and AI systems understand the page
 
-Optimization should improve the usefulness and discoverability of the content rather than forcing keywords into the text.
+I would not treat AI-search optimization as a completely separate discipline from SEO. Instead, I would adapt existing SEO practices to the changing search environment.
 
-### Step 7: Fact-Check Before Publishing
+**Sources:**
+- Aleyda Solis — LinkedIn post, 17.06.2026 - https://www.linkedin.com/posts/aleyda_bing-is-releasing-new-ai-visibility-insights-share-7472684889935548417-tSt6?utm_source=chatgpt.com
+- Aleyda Solis — YouTube, "The top SEO tip for 2026 of +12 SEO specialists", 20.12.2025 - https://youtu.be/al-FuoXXQCs?utm_source=chatgpt.com
+- Lily Ray — YouTube, "GEO, AEO, LLMO: Separating Fact from Fiction & How to Win in AI Search", 11.11.2025 - https://youtu.be/2nJkT8zOzcM?utm_source=chatgpt.com
+- Tim Soulo — LinkedIn post, 2026 - https://www.linkedin.com/posts/timsoulo_in-the-last-6-months-at-ahrefs-we-analyzed-activity-7467561528830078976-rUjs?utm_source=chatgpt.com
 
-Before publication, verify important claims against reliable sources.
 
-Pay particular attention to:
+### Step 8: Publish Only After Quality Control
 
-- Statistics
-- Dates
-- Product information
-- Technical claims
-- Quotes
-- Research findings
-- Claims about Google or search engine behavior
+Once the content has passed the evidence and human-review stages, publish it.
 
-Any claim that cannot be confidently verified should be removed, qualified, or researched further.
+I would not allow an automated system to become the final publishing authority.
 
-### Step 8: Publish and Measure
+The publishing decision should consider:
+
+- Factual accuracy
+- Search intent
+- Content usefulness
+- Original value
+- Technical quality
+- Overall business relevance
+
+**Sources:**
+- Neil Patel — YouTube, "5 Signs Your AI SEO Strategy Is About to Take Off", 27.05.2026 - https://youtu.be/SxTuBggWU2w?utm_source=chatgpt.com
+- Mark Williams-Cook — YouTube, "SEO Mark Williams-Cook on AI vs Google Search....Behind the Scenes", 11.10.2025 - https://youtu.be/8humkUT8w9k?utm_source=chatgpt.com
+- Julian Goldie — YouTube, "How I Built an AI SEO Agent to Rank #1 in 10 Minutes (Claude Code)", 16.06.2026 - https://youtu.be/69PT1AUxlOw?utm_source=chatgpt.com
+
+
+### Step 9: Measure Performance
 
 After publication, monitor performance rather than assuming the content succeeded.
 
 Track relevant signals such as:
 
 - Organic impressions
+- Organic clicks
 - Click-through rate
-- Organic traffic
-- Rankings for important queries
+- Rankings
+- AI/search visibility where measurable
 - Engagement
 - Conversions where applicable
 
-Use performance data to identify content that needs improvement.
+Data should be used to determine whether the content needs improvement.
 
-### Step 9: Update and Improve
+**Sources:**
+- Tim Soulo — LinkedIn post, 2026 - https://www.linkedin.com/posts/timsoulo_in-the-last-6-months-at-ahrefs-we-analyzed-activity-7467561528830078976-rUjs?utm_source=chatgpt.com
+- Tim Soulo — YouTube, "Top SEO myths debunked with real data", 03.02.2026 - https://youtu.be/ejylKNKAQ4s?utm_source=chatgpt.com
+- Ross Simmonds — LinkedIn post, 15.06.2026 - https://www.linkedin.com/posts/rosssimmonds_marketing-contentmarketing-semrushpartner-share-7470647163249897472-w2BW/?utm_source=chatgpt.com
+
+
+### Step 10: Update and Improve
 
 SEO content should be treated as an ongoing asset.
 
-When performance or information changes:
+When performance, search behavior, or information changes:
 
 - Update outdated information
 - Improve weak sections
@@ -159,25 +236,46 @@ When performance or information changes:
 - Refresh examples
 - Strengthen internal links
 - Reassess search intent
+- Re-evaluate AI/search visibility
 
-The goal is to create a continuous research → production → measurement → improvement cycle.
+The process should therefore become:
+
+Research → Production → Review → Publish → Measure → Improve.
+
+**Sources:**
+- Neil Patel — YouTube, "5 Signs Your AI SEO Strategy Is About to Take Off", 27.05.2026 - https://youtu.be/SxTuBggWU2w?utm_source=chatgpt.com
+- Nathan Gotch — LinkedIn post, 16.06.2026 - https://www.linkedin.com/posts/nathangotch_seo-is-so-easy-now-you-just-need-to-share-7472611026111434752-qWzJ/?utm_source=chatgpt.com
+- Tim Soulo — LinkedIn post, 2026 - https://www.linkedin.com/posts/timsoulo_in-the-last-6-months-at-ahrefs-we-analyzed-activity-7467561528830078976-rUjs?utm_source=chatgpt.com
+
 
 ## 5. Production Checklist
 
 Before publishing any AI-assisted SEO article, I would check:
 
 - [ ] Search intent is clearly defined.
-- [ ] The target audience is understood.
+- [ ] The target audience and problem are understood.
 - [ ] Keyword and topic research has been completed.
+- [ ] Related topics and intents have been considered.
 - [ ] A content brief exists.
 - [ ] AI was used as a production aid rather than the sole source of expertise.
 - [ ] Important factual claims were verified.
 - [ ] The content provides original value.
 - [ ] The article answers the searcher's main question.
 - [ ] Internal linking opportunities were considered.
-- [ ] The content was reviewed by a human.
+- [ ] The content has been reviewed by a human.
 - [ ] The final version is useful and readable.
 - [ ] A plan exists to measure performance after publication.
+- [ ] A process exists for updating the content based on evidence.
+
+**Sources informing this checklist:**
+- Neil Patel — YouTube, "5 Signs Your AI SEO Strategy Is About to Take Off", 27.05.2026 - https://youtu.be/SxTuBggWU2w?utm_source=chatgpt.com
+- Brian Dean — YouTube, "SEO: What's Working RIGHT NOW", 28.07.2023 - https://youtu.be/llulQdW2ZXk?utm_source=chatgpt.com
+- Nathan Gotch — YouTube, "The AI SEO Checklist I'd Use in 2026", 14.07.2025 - https://youtu.be/0FmEV0jE5TQ?utm_source=chatgpt.com
+- Julian Goldie — YouTube, "How I Built an AI SEO Agent to Rank #1 in 10 Minutes (Claude Code)", 16.06.2026 - https://youtu.be/69PT1AUxlOw?utm_source=chatgpt.com
+- Aleyda Solis — LinkedIn post, 17.06.2026 - https://www.linkedin.com/posts/aleyda_bing-is-releasing-new-ai-visibility-insights-share-7472684889935548417-tSt6?utm_source=chatgpt.com
+- Lily Ray — YouTube, "GEO, AEO, LLMO: Separating Fact from Fiction & How to Win in AI Search", 11.11.2025 - https://youtu.be/2nJkT8zOzcM?utm_source=chatgpt.com
+- Tim Soulo — YouTube, "Top SEO myths debunked with real data", 03.02.2026 - https://youtu.be/ejylKNKAQ4s?utm_source=chatgpt.com
+- Ross Simmonds — YouTube, "Ross Simmonds | Keynote Speaker Demo Reel | Content, SEO & AI That Drive Pipeline", 15.04.2026- https://youtu.be/axTH6nKDUY4?utm_source=chatgpt.com
       
 ## 6. Where Experts Disagree
 
@@ -469,3 +567,75 @@ My conclusion is narrower:
 **I would not recommend following a highly automated AI SEO workflow blindly without independent validation and human quality control.**
 
 This distinction matters because expert strategies are often developed in specific contexts and should be tested before being generalized to another website, audience, or business.
+
+## 11. Final Recommended SOP
+
+My recommended process combines the strongest ideas from the research while adding human judgment and evidence checks.
+
+### The Workflow
+
+**1. Define the search problem**
+- Identify the target audience.
+- Understand the search intent.
+- Define the problem the content should solve.
+
+**2. Research the topic**
+- Research the primary keyword.
+- Identify related questions and subtopics.
+- Review competing content.
+- Identify authoritative sources.
+
+**3. Create the content brief**
+- Define the primary topic.
+- Define search intent.
+- Create the proposed structure.
+- List questions the article must answer.
+- Identify information that requires verification.
+
+**4. Generate an AI-assisted draft**
+- Use AI for outlining and repetitive production tasks.
+- Provide the AI with the research and content brief.
+- Do not treat the first AI output as publication-ready.
+
+**5. Run the Evidence Gate**
+- Identify important factual claims.
+- Find supporting sources.
+- Flag unsupported or uncertain claims.
+- Remove or rewrite claims that cannot be adequately supported.
+
+**6. Human review**
+- Check accuracy.
+- Check search intent.
+- Add original insights and examples.
+- Remove generic or repetitive AI-generated material.
+- Review tone and readability.
+
+**7. SEO optimization**
+- Review title and headings.
+- Check internal linking opportunities.
+- Ensure the content answers the intended query.
+- Improve structure and readability.
+- Avoid unnatural keyword insertion.
+
+**8. Publish**
+- Publish only after the evidence and human-review stages are complete.
+
+**9. Measure**
+Track appropriate performance indicators such as:
+- Organic impressions
+- Organic clicks
+- Click-through rate
+- Rankings
+- Engagement
+- Conversions
+
+**10. Improve**
+Use performance data to update and improve the content.
+
+### Operating Principle
+
+The central principle of this SOP is:
+
+> **Automate production, not judgment.**
+
+AI should make the content-production process faster, but important decisions about evidence, quality, usefulness, and publication should remain subject to human judgment.
